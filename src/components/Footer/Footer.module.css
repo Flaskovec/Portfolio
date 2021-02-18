@@ -1,0 +1,25 @@
+.footerBlock {
+  height: 100vh;
+  background-color: rgb(156, 61, 85);
+
+}
+
+.footerCont {
+  background-color: rgb(188, 216, 31);
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.title {
+  background-color: rgb(41, 231, 206);
+}
+
+.footerCont {
+  border: 1px solid;
+  width: 80%;
+  height: 30%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}

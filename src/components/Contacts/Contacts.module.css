@@ -1,0 +1,25 @@
+.contactsBlock {
+  height: 100vh;
+  background-color: rgb(187, 84, 228);
+
+}
+
+.contactsCont {
+  background-color: rgb(89, 204, 137);
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.title {
+  background-color: rgb(202, 88, 136);
+}
+
+.formCont {
+  border: 1px solid;
+  width: 80%;
+  height: 60%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
